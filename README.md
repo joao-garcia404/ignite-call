@@ -22,6 +22,7 @@ Technologies that I used to develop this web client
 - [NextJS](https://nextjs.org)
 - [TypeScript](https://www.typescriptlang.org/)
 - [Prisma](https://www.prisma.io/)
+- [Next Auth](https://next-auth.js.org/)
 - [Google calendar](https://calendar.google.com/)
 
 ## 💻 Getting started

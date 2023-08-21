@@ -15,6 +15,9 @@
 
 - <p>Ignite call is a fullstack application integrated with google calendar to schedule mettings</p>
 
+![image](https://github.com/joao-garcia404/ignite-call/assets/68558302/4175a69f-c06b-4885-a327-2b243717254f)
+![image](https://github.com/joao-garcia404/ignite-call/assets/68558302/c431e17f-f686-4c65-bed3-fe90df7d77d2)
+
 ## 🚀 Technologies
 
 Technologies that I used to develop this web client

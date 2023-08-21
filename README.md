@@ -27,6 +27,7 @@ Technologies that I used to develop this web client
 - [Prisma](https://www.prisma.io/)
 - [Next Auth](https://next-auth.js.org/)
 - [Google calendar](https://calendar.google.com/)
+- [Zod](https://github.com/colinhacks/zod)
 
 ## 💻 Getting started
 
